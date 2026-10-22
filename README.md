@@ -40,8 +40,8 @@
 ║  ALIAS      →  Deçan                 ║
 ║  ORIGIN     →  Kenya 🇰🇪              ║
 ║  ROLE       →  Full-Stack Developer  ║
-║               Tech Builder            ║
-║               Entrepreneur             ║
+║               Tech Builder           ║
+║               Entrepreneur           ║
 ║                                      ║
 ║  STATUS     →  ONLINE ●              ║
 ║  MODE       →  CREATE                ║
@@ -52,7 +52,7 @@
 ║               Automation             ║
 ║               Cybersecurity          ║
 ║               Cloud Systems          ║
-║               Entrepreneurship      ║
+║               Entrepreneurship       ║
 ║                                      ║
 ╚══════════════════════════════════════╝
 ```
@@ -185,7 +185,7 @@ Turning small experiments into serious technology products.
           ▼                  ▼                  ▼
     ┌───────────┐      ┌───────────┐      ┌───────────┐
     │  DEÇAN AI │      │  KONNECT  │      │   MOVIE   │
-    │    🤖     │      │    🌐     │      │    🎬     │
+    │    🤖    │      │    🌐     │      │    🎬    │
     └─────┬─────┘      └─────┬─────┘      └─────┬─────┘
           │                  │                  │
           └──────────────────┼──────────────────┘
@@ -282,10 +282,10 @@ Turning small experiments into serious technology products.
 ╭──────────────────────────────────────────────────────╮
 │                                                      │
 │  🔭 CURRENTLY BUILDING                              │
-│     → AI-powered systems                            │
+│     → AI-powered systems                             │
 │                                                      │
 │  🌱 CURRENTLY LEARNING                              │
-│     → Full-stack engineering                        │
+│     → Full-stack engineering                         │
 │                                                      │
 │  🧪 CURRENTLY EXPERIMENTING                          │
 │     → APIs • Cloud • Automation • AI                 │
